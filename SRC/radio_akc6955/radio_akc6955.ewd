@@ -93,7 +93,7 @@
         </option>
         <option>
           <name>UseFlashLoader</name>
-          <state>1</state>
+          <state>0</state>
         </option>
         <option>
           <name>CLowLevel</name>
@@ -1172,11 +1172,11 @@
         <option>
           <name>CCSTLinkResetList</name>
           <version>1</version>
-          <state>0</state>
+          <state>2</state>
         </option>
         <option>
           <name>CCCpuClockEdit</name>
-          <state>72.0</state>
+          <state>1.0</state>
         </option>
         <option>
           <name>CCSwoClockAuto</name>
@@ -1249,7 +1249,7 @@
         <option>
           <name>CCSTLinkJtagSpeedList</name>
           <version>0</version>
-          <state>0</state>
+          <state>7</state>
         </option>
         <option>
           <name>CCSTLinkDAPNumber</name>

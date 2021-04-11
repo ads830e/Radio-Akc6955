@@ -2476,13 +2476,28 @@
   <group>
     <name>user</name>
     <file>
+      <name>$PROJ_DIR$\user\AKC6955.c</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\user\AKC6955.h</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\user\DigitDisplay.c</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\user\DigitDisplay.h</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\user\fee.c</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\user\fee.h</name>
+    </file>
+    <file>
       <name>$PROJ_DIR$\user\main.c</name>
     </file>
     <file>
       <name>$PROJ_DIR$\user\main.h</name>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\user\stm32f030f4_userdef.h</name>
     </file>
     <file>
       <name>$PROJ_DIR$\user\stm32f0xx_it.c</name>
